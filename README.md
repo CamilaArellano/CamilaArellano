@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://github.com/CamilaArellano/CamilaArellano/blob/main/header.png?raw=true"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -6,10 +12,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
