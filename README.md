@@ -8,9 +8,9 @@
 
 <div align="center">
   <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
+   <a href="https://www.linkedin.com/in/camila-arellano-a442982b7/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>>
+   </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:eiracamila1@gmail.com'>eiracamila1@gmail.com</a>
 </p>
